@@ -1,5 +1,5 @@
 Política de Privacidad - Electronic Logic Resolver
-Última actualización: [Fecha]
+Última actualización: 7 de diciembre de 2024
 
 Electronic Logic Resolver (el "Bot") valora tu privacidad y se compromete a proteger cualquier información que se recopile mientras utilizas sus servicios. Esta Política de Privacidad describe cómo se recopila, utiliza y protege la información dentro de la plataforma de Discord.
 
