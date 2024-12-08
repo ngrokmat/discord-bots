@@ -31,8 +31,8 @@ Nos reservamos el derecho de modificar estos términos y condiciones en cualquie
 
 9. Soporte y Contacto
 Si tienes dudas, problemas técnicos, o necesitas soporte relacionado con el bot, puedes contactar al desarrollador del bot a través de:
-
 Correo: thadow.mc@gmail.com
 Discord: thadow
+
 10. Aceptación de los Términos
 Al utilizar el bot, confirmas que has leído, comprendido y aceptado estos términos y condiciones en su totalidad.
