@@ -18,6 +18,7 @@ Ejecutar las funciones principales del Bot, como cálculos lógicos, tablas de v
 Proporcionar resultados personalizados y respuestas a comandos.
 Mejorar la funcionalidad del Bot mediante análisis de uso.
 Garantizar la seguridad del Bot y prevenir el abuso de sus funciones.
+
 3. Compartición de información
 El Bot no compartirá ni venderá tu información con terceros, excepto en las siguientes situaciones:
 
